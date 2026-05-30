@@ -20,7 +20,7 @@ const Main_Part = () => {
                     <div className="mt-4 text-sm sm:text-base md:text-lg text-center text-neutral-600">Luxury | Affordability | Expertise - All Under One Roof</div>
                     <div className="flex justify-center w-full mt-6">
                         <a
-                            href="https://wa.me/919559808482?text=Hello!%20I%20would%20like%20to%20book%20an%20appointment."
+                            href="https://wa.me/9140655929?text=Hello!%20I%20would%20like%20to%20book%20an%20appointment."
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center justify-center gap-2 py-3.5 px-6 rounded-xl bg-gradient-to-r from-[#FF8A7A] to-[#C59B73] hover:from-[#C59B73] hover:to-[#FF8A7A] text-white font-bold text-xs uppercase tracking-widest transition-all duration-500 hover:-translate-y-0.5 shadow-[0_4px_20px_rgba(255,138,122,0.25)] hover:shadow-[0_6px_24px_rgba(197,155,115,0.3)] cursor-pointer select-none text-center"

@@ -2,7 +2,7 @@ import React from 'react';
 
 const WhatsAppButton = () => {
   // Opening link with customized pre-filled message
-  const whatsappUrl = "https://wa.me/919559808482?text=Hello!%20I%20have%20a%20query%20about%20your%20salon%20services.";
+  const whatsappUrl = "https://wa.me/9140655929?text=Hello!%20I%20have%20a%20query%20about%20your%20salon%20services.";
 
   return (
     <a
