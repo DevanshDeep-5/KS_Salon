@@ -1,5 +1,5 @@
 import Card from "../components/Card"
-import Hair_Treatment from "./../assets/Hair_Treatment.png";
+import Hair_Treatment from "../assets/Hair_treatment.png";
 import Skin from "./../assets/Skin.png";
 import Makeup from "./../assets/Makeup.png";
 import Feet from "./../assets/Feet.png";
